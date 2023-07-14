@@ -1,4 +1,4 @@
-# Rishw
+# Risheek
 SRS
 
 Varnasi
